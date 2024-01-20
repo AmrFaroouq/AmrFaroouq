@@ -4,10 +4,14 @@
   </h1>
 </div>
 
-<div align="center">
+  <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 
-  <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Data%20Scientist;&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&pause=1000&center=true&vCenter=true&random=false&width=435&lines=Data+Scientist;Python+Developer+" alt="Typing SVG" /></a>
+
+ 
+
+  
+  
 </p> 
 </div>
