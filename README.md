@@ -7,12 +7,43 @@
   <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&pause=1000&center=true&vCenter=true&random=false&width=435&lines=Data+Analyst;Python+Developer+" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&pause=1000&center=true&vCenter=true&random=false&width=435&lines=Data+Engineering;Data+Analyst;Python+Developer+" alt="Typing SVG" /></a>
 
  
-# 💫 About Me:
-I'm currently working on: ⁠Backend projects using Python, databases, and APIs⁠  <br> I'm looking to collaborate on: ⁠Open-source backend projects and Python utilities⁠  <br> I'm looking for help with: ⁠Advanced system architecture and scaling backend services⁠  <br> I'm currently learning: ⁠Data engineering, Pandas, and optimizing SQL databases⁠  <br> Ask me about: ⁠Python, SQL, database design, and backend development⁠  <br> Fun fact: ⁠I turn coffee into clean code
+<div align="center">
+  <h3>⚡ <span style="background: linear-gradient(90deg, #58a6ff, #bc8cff); -webkit-background-clip: text; -webkit-text-fill-color: transparent; font-size: 24px;">About Me</span> ⚡</h3>
+</div>
 
+<table width="100%" style="border-collapse: separate; border-spacing: 12px; background: transparent;">
+  <tr>
+    <td width="50%" valign="top" style="background: #0d1117; border: 1px solid #30363d; border-top: 3px solid #58a6ff; border-radius: 12px; padding: 18px; box-shadow: 0 4px 12px rgba(0,0,0,0.3);">
+      <h4 style="margin-top: 0; color: #58a6ff; font-size: 16px;">🚀 Profile Summary</h4>
+      <p style="color: #8b949e; font-size: 13.5px; line-height: 1.6; margin-bottom: 0;">
+        Passionate <b style="color: #c9d1d9;">Backend Engineer</b> dedicated to architecting scalable, high-performance, and robust Python-driven systems.
+        <br><br>
+        Specialized in API design, database structure & optimization, translating complex business logic into clean, maintainable, and production-ready code.
+      </p>
+    </td>
+    <td width="50%" valign="top" style="background: #0d1117; border: 1px solid #30363d; border-top: 3px solid #bc8cff; border-radius: 12px; padding: 18px; box-shadow: 0 4px 12px rgba(0,0,0,0.3);">
+      <h4 style="margin-top: 0; color: #bc8cff; font-size: 16px;">🎯 Focus & Collaboration</h4>
+      <p style="margin: 0; font-size: 13.5px; line-height: 1.8; color: #c9d1d9;">
+        🔷 <b>Currently Building:</b> Scalable backend services & APIs<br>
+        🔷 <b>Open for:</b> Backend open-source projects & utilities<br>
+        🔷 <b>Architecture:</b> System design & scaling optimization
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" valign="top" style="background: #0d1117; border: 1px solid #30363d; border-top: 3px solid #238636; border-radius: 12px; padding: 18px; box-shadow: 0 4px 12px rgba(0,0,0,0.3);">
+      <h4 style="margin-top: 0; color: #3fb950; font-size: 16px;">🌱 Growth & Continuous Learning</h4>
+      <p style="margin: 0; font-size: 13.5px; line-height: 1.8; color: #c9d1d9;">
+        🟢 <b>Data Engineering:</b> Building automated ETL pipelines & data flows<br>
+        🟢 <b>Database Optimization:</b> Advanced performance tuning for SQL & NoSQL systems<br>
+        🟢 <b>Data Processing:</b> Large-scale data analysis using Pandas
+      </p>
+    </td>
+  </tr>
+</table>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Amr Faroouq) 
